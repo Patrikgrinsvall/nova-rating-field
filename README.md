@@ -1,5 +1,7 @@
 # Nova Rating field
 
+This is a fork that fixes some issues in the original version and also adds on some new features.
+
 A **Star rating field** to use in your Laravel Nova apps. 
 
 Uses [vue-star-rating](https://github.com/craigh411/vue-star-rating). 
